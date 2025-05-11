@@ -2,7 +2,8 @@
 
 # OllamaTelegramBot
 
-A simple Telegram bot for communicating with LLMs via [Ollama](https://ollama.com).
+A simple Telegram bot for communicating with LLMs via [Ollama](https://ollama.com). Select one of two LLMs that you want to talk with(you can change them in the script).
+
 It was made in an hour just for fun.
 
 ---
